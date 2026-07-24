@@ -117,6 +117,12 @@ https://faster-viale.cdn.rcs.net.ar/mnp/hz6t5c9mz68wy00000276ouv9qqhfwbr/output.
 #EXTINF:-1 tvg-id="0431" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Tele",DSports 🌎 (Op. 2)
 http://181.94.205.55:4022/udp/225.2.2.2:20006
 
+#EXTINF:-1 tvg-id="0431" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Tele",DSports 🌎
+http://190.108.83.69:8000/play/a0cb/index.m3u8
+
+#EXTINF:-1 tvg-id="2431" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Tele",DSports 🌎
+http://190.7.19.197:232/play/a09i/index.m3u8
+
 #EXTINF:-1 tvg-id="0432" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports2-lam.png?raw=true" group-title="Tele",DSports 2 🌎 (Op. 2)
 http://181.94.205.55:4022/udp/225.2.2.2:20004
 
