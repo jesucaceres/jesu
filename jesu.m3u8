@@ -18,7 +18,7 @@ https://faster-viale.cdn.rcs.net.ar/mnp/f4i30000001178tfvf222zer6o7mwgdd/output.
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/f3/08/34/f308341a2716563f8143c3d050358b57.jpg" group-title="Tele", Canal 9 Resistencia
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tele", Somos uno Resistencia
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSThdWlBhN_hRzOM88V8aB0ut-EhZHwjGTmQuqmsPDL&s=10" group-title="Tele", Somos uno Resistencia
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/NLkqseNFqh8p_slwbnlXvwSbcXBkQGJTxlfPsVtaH9fBjZpJfC8QPLqd4BX4koXijw0i_LHHCA=s900-c-k-c0x00ffffff-no-rj" group-title="Tele", NG Federal Resistencia
@@ -240,7 +240,7 @@ http://181.94.205.55:4022/udp/225.2.2.2:20007
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/f3/08/34/f308341a2716563f8143c3d050358b57.jpg" group-title="la tele", Canal 9 Resistencia
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="la tele", Somos uno Resistencia
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSThdWlBhN_hRzOM88V8aB0ut-EhZHwjGTmQuqmsPDL&s=10" group-title="la tele", Somos uno Resistencia
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/NLkqseNFqh8p_slwbnlXvwSbcXBkQGJTxlfPsVtaH9fBjZpJfC8QPLqd4BX4koXijw0i_LHHCA=s900-c-k-c0x00ffffff-no-rj" group-title="la tele", NG Federal Resistencia
