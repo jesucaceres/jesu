@@ -88,16 +88,16 @@ http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOmAYJ-7qdbUapi2gMAaU2nc
 http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOm0CEcbwPFQRHB6-SVRCyV4
 
 #EXTINF:-1 tvg-id="HBO plus" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-plus-ar.png?raw=true" group-title="Tele",HBO + 🌎 (Op. 1)
-http://45.226.28.9:8085/Live/120e4c580311c6685df90ec4dca2c0b1/local-hboplus.playlist.m3u8
+http://38.225.117.1:9005/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-pop-ar.png?raw=true" group-title="Tele",HBO POP 🌎 (Op. 1)
-http://45.226.28.9:8085/Live/120e4c580311c6685df90ec4dca2c0b1/local-hbopop.playlist.m3u8
+http://181.224.255.210:8001/play/a0on/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-signature-ar.png?raw=true" group-title="Tele",HBO Signature 🌎 (Op. 1)
 http://45.226.28.9:8085/Live/120e4c580311c6685df90ec4dca2c0b1/local-hbosignature.playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/hbo-xtreme-ar.png?raw=true" group-title="Tele",HBO Xtreme 🌎 (Op. 1)
-http://45.226.28.9:8085/Live/120e4c580311c6685df90ec4dca2c0b1/local-hboxtreme.playlist.m3u8
+http://38.225.117.1:9005/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyChannel.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/sony-channel-ar.png?raw=true" group-title="Tele",Sony Channel 🇦🇷 (Op. 7)
 http://181.209.80.115:8000/play/sony_hd
