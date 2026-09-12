@@ -161,29 +161,29 @@ http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOjWrtQKG5qnRFeNJpchjjX0
 ##EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true" group-title="Tele",ESPN 5 🇦🇷 
 http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOil1zgOujV4oEhyOdW5a-lQ
 
-#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-6-lam.png?raw=true" group-title="Deportes",ESPN 6 🌎 (Op. 1)
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-6-lam.png?raw=true" group-title="Tele",ESPN 6 🌎 (Op. 1)
 http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOrgFbWbe-eS9JCaNXkiSPpM
 
-#EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-7-lam.png?raw=true" group-title="Deportes",ESPN 7 🌎 (Op. 1)
+#EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-7-lam.png?raw=true" group-title="Tele",ESPN 7 🌎 (Op. 1)
 http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOhUeccwuks7s9t2j4Uenr6o
 
-#EXTINF:-1 xui-id="496003" tvg-id="ESPND" tvg-name="MX | ESPN Deportes" tvg-logo="https://a.espncdn.com/photo/2019/1209/r639280_500x500_1-1.jpg" group-title="⚽ESPN DEPORTES",MX | ESPN Deportes
+#EXTINF:-1 xui-id="496003" tvg-id="ESPND" tvg-name="MX | ESPN Deportes" tvg-logo="https://a.espncdn.com/photo/2019/1209/r639280_500x500_1-1.jpg" group-title="Tele",MX | ESPN Deportes
 http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOvRIc-eIt-IEUk2EHudJI68
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true" group-title="Tele",Fox Sports 1 🇦🇷 (Op. 8)
 http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOnZFry-I2jpDtOi7aXO1Zec
 
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true" group-title="Deportes",Fox Sports 2 🇦🇷 (Op. 8)
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true" group-title="Tele",Fox Sports 2 🇦🇷 (Op. 8)
 http://181.209.80.115:8000/play/fox_sports_2_hd
 
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-3-ar.png?raw=true" group-title="Deportes",Fox Sports 3 🇦🇷 (Op. 7)
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-3-ar.png?raw=true" group-title="Tele",Fox Sports 3 🇦🇷 (Op. 7)
 http://181.209.80.115:8000/play/fox_sports_3_hd
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Tele",DSports 🌎 (Op. 1)
 http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOsHgx-sVuL4s7PpkQEOYAVA
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports2-lam.png?raw=true" group-title="Deportes",DSports 2 🌎 (Op. 1)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports2-lam.png?raw=true" group-title="Tele",DSports 2 🌎 (Op. 1)
 http://181.209.80.115:8000/play/dsports_2_hd
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true" group-title="Deportes",DSports + 🌎 
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true" group-title="Tele",DSports + 🌎 
 http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOisYI5o4no_N8TGeLR46oaM
