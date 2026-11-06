@@ -5,14 +5,15 @@
 ###### TELEVISIÓN ######
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Tele",El Trece 🇦🇷 (Op. 9)
-http://181.209.80.115:8000/play/el_trece_hd
+#EXTVLCOPT:http-reconnect=true
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true" group-title="Tele",El Trece 🇦🇷 (Op. 1)
 #EXTVLCOPT:http-referrer=https://vodgc.net
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Telefe.png?raw=true" group-title="Tele",Telefe HD 🇦🇷 (Op. 10)
-http://181.209.80.115:8000/play/telefe_hd
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Telefe.png?raw=true" group-title="Argentina 🇦🇷",Telefe HD 🇦🇷 (Op. 4)
+http://cdn-zapster-ros.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Telefe.png?raw=true" group-title="Tele",Telefe HD 🇦🇷 (Op. 5)
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
@@ -21,43 +22,46 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.tycsports.com/
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TyC.png?raw=true" group-title="Tele",TyC Sports 🇦🇷 (Op. 9)
-http://181.209.80.115:8000/play/tyc_sports_hd
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TyC.png?raw=true" group-title="Deportes 🇦🇷",TyC Sports 🇦🇷 (Op. 6)
+http://cdn-zapster-ros.trapemn.tv:1935/Zapster-hls/TyC_Sports/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Tele",ESPN 1 🇦🇷 (Op. 8)
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 1 🇦🇷 (Op. 1)
+http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 1 🇦🇷 (Op. 6)
 #EXTVLCOPT:http-reconnect=true
-http://181.209.80.115:8000/play/espn_hd
+http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN1.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Tele",ESPN 1 🇦🇷 (Op. 8)
-http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOhdC80soNW8X9fz6Xg-XCGI
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 2 🇦🇷 (Op. 6)
+http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Tele",ESPN 2 🇦🇷 (Op. 7)
-http://181.209.80.115:8000/play/espn_2_hd
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 3 🇦🇷 (Op. 6)
+http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true" group-title="Tele",ESPN 3 🇦🇷 (Op. 7)
-http://181.209.80.115:8000/play/espn_3_hd
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-4-br.png?raw=true" group-title="Tele",ESPN 4 🇦🇷 (Op. 7)
-http://181.209.80.115:8000/play/espn_4_hd
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-4-br.png?raw=true" group-title="Deportes 🇦🇷",ESPN 4 🇦🇷 (Op. 5)
+http://cdn-zapster-ros.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true" group-title="Tele",Fox Sports 1 🇦🇷 (Op. 8)
 http://181.209.80.115:8000/play/fox_sports_hd
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Tele",DSports 🌎 (Op. 1)
-http://181.209.80.115:8000/play/dsports_hd
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes 🌎",DSports 🌎 (Op. 1)
+http://cdn-zapster-ros.trapemn.tv:1935/Zapster-hls/dsports1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Tele",ESPN Premium 🇦🇷 (Op. 5)
-http://181.209.80.115:8000/play/espn_premium_hd
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🇦🇷",ESPN Premium 🇦🇷 (Op. 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://cdn-zapster-ros.trapemn.tv:1935/CD-atam71385/ESPN_Premium_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Tele",ESPN Premium 🇦🇷 (Op. 5)
-http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOqAswMMO8UyGm_ciTkHzULg
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes 🇦🇷",ESPN Premium 🇦🇷 (Op. 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Tele",TNT Sports Premium 🇦🇷 (Op. 5)
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 3)
 #EXTVLCOPT:http-reconnect=true
-http://181.209.80.115:8000/play/tnt_sports_hd
+http://cdn-zapster-ros.trapemn.tv:1935/CD-latam2135/TNT_SPORTS_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Tele",TNT Sports Premium 🇦🇷 (Op. 5)
-http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOpFZYuck5rOlsjc4Qh7-JDw
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes 🇦🇷",TNT Sports Premium 🇦🇷 (Op. 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZNF1.Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-f1-es.png?raw=true" group-title="Tele",DAZN F1 🇪🇸 
 #EXTVLCOPT:network-caching=1000
@@ -149,26 +153,30 @@ http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOkqWq9wH01TfC0EdOX1IAYA
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TyC.png?raw=true" group-title="Tele",TyC Sports 🇦🇷 (Op. 3)
 http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOtNjdJlhQD4P5x5JiSQc9Qg
 
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Tele",ESPN 1 🇦🇷 (Op. 8)
-http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOlyrK4XRjjYGlOhkTs5kRMQ
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 1 🇦🇷 (Op. 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Tele",ESPN 2 🇦🇷 (Op. 7)
-http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOkzr0L88XbF31gBQrLF7zhQ
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 2 🇦🇷 (Op. 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true" group-title="Tele",ESPN 3 🇦🇷 (Op. 7)
-http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOl7iAml6O3idR7fXyWZW3Qk
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true" group-title="Deportes 🇦🇷",ESPN 3 🇦🇷 (Op. 3)
+#EXTVLCOPT:http-reconnect=true
+http://45.134.141.161:2200/ARG/ESPN_ARG_3_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-4-br.png?raw=true" group-title="Tele",ESPN 4 🇦🇷 (Op. 7)
-http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOjWrtQKG5qnRFeNJpchjjX0
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-4-br.png?raw=true" group-title="Deportes 🇦🇷",ESPN 4 🇦🇷 (Op. 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43_720p/index.m3u8
 
-##EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true" group-title="Tele",ESPN 5 🇦🇷 
-http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOil1zgOujV4oEhyOdW5a-lQ
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-5-br.png?raw=true" group-title="Deportes 🌎",ESPN 5 🌎 (Op. 2)
+http://liketv.xyz:80/alerua5897/24681012/140.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-6-lam.png?raw=true" group-title="Tele",ESPN 6 🌎 (Op. 1)
-http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOrgFbWbe-eS9JCaNXkiSPpM
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-6-lam.png?raw=true" group-title="Deportes 🌎",ESPN 6 🌎 (Op. 3)
+http://liketv.xyz:80/alerua5897/24681012/141.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-7-lam.png?raw=true" group-title="Tele",ESPN 7 🌎 (Op. 1)
-http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOhUeccwuks7s9t2j4Uenr6o
+#EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/espn-7-lam.png?raw=true" group-title="Deportes 🌎",ESPN 7 🌎 (Op. 4)
+http://liketv.xyz:80/alerua5897/24681012/142.m3u8
 
 #EXTINF:-1 xui-id="496003" tvg-id="ESPND" tvg-name="MX | ESPN Deportes" tvg-logo="https://a.espncdn.com/photo/2019/1209/r639280_500x500_1-1.jpg" group-title="Tele",MX | ESPN Deportes
 http://liketv.pro:80/play/nG4ysbQ0O_zUFIiiPHPwOvRIc-eIt-IEUk2EHudJI68
